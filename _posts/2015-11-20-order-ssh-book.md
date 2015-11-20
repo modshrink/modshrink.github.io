@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updated SSL for 2016
+title: Order SSH book
 ---
 
 Order the SSH book O'Reilly. But there is no stock only secondhand.
